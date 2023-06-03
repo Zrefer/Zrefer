@@ -34,7 +34,7 @@
   </a>
   <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original-wordmark.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg"
       alt="yarn"
       width="40"
       height="40"
@@ -58,7 +58,7 @@
   </a>
   <a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg"
       alt="webpack"
       width="40"
       height="40"
@@ -82,7 +82,7 @@
   </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"
       alt="django"
       width="40"
       height="40"
