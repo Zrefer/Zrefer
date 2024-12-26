@@ -8,7 +8,6 @@
 - 🔭 Currently working at a cool IT company in Russia.
 - 🎯 **Goals:**
   - Keep leveling up my frontend skills.
-  - Develop an awesome project for the osu! community: [osu-paws](https://github.com/osu-paws).
 - ⚡ **Hobbies:**
   - 3D printing 🖨️
   - Speedcubing 🧩
